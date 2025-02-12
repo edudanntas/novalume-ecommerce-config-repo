@@ -1,0 +1,94 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Diretórios de dependências
+node_modules/
+jspm_packages/
+bower_components/
+.venv/
+vendor/
+target/
+build/
+out/
+
+# Arquivos de compilação
+*.class
+*.o
+*.so
+*.dll
+*.exe
+*.out
+*.app
+*.dylib
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de configuração de IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.code-workspace
+*.sln
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Arquivos de configuração de ferramentas de build
+.mvn/
+.gradle/
+*.jar
+*.war
+*.ear
+
+# Arquivos de configuração de contêineres
+docker-compose.override.yml
+.dockerignore
+compose/
+
+# Arquivos de configuração de ambiente
+.env
+.env.*
+.envrc
+
+# Arquivos de configuração de controle de versão
+*.orig
+*.rej
+*.patch
+*.diff
+
+# Arquivos de configuração de banco de dados
+*.sql
+*.sqlite
+*.db
+
+# Arquivos de configuração de testes
+coverage/
+*.lcov
+.nyc_output/
+test-results/
+test-output/
+
