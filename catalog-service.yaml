@@ -11,3 +11,9 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 server:
   port: 8092
+
+minio:
+  url: http://localhost:9000
+  access-key: hUF1V5QUuW7l7SEpurlB
+  secret-key: JogeElhEM8JDAyyIl4b3Zqq1DWLkrQD3Hnn9AC6R
+  bucket-name: catalog-service
